@@ -21,7 +21,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 We would appreciate citations to the following paper:
 
 ```
-@article{yin2022ttgcn,
+@inproceedings{yin2022ttgcn,
 	title = {Nimble GNN Embedding with Tensor-Train Decomposition},
 	author = {Yin, Chunxing and Zheng, Da and Nisa, Israt and Faloutsos, Christos and Karypis, George and Vuduc, Richard},
 	year = {2022},
