@@ -24,7 +24,7 @@ We would appreciate citations to the following paper:
 @article{yin2022ttgcn,
 	title = {Nimble GNN Embedding with Tensor-Train Decomposition},
 	author = {Yin, Chunxing and Zheng, Da and Nisa, Israt and Faloutsos, Christos and Karypis, George and Vuduc, Richard},
-    year = {2022},
+	year = {2022},
 	booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
 }
 ```
