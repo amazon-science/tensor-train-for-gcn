@@ -7,9 +7,13 @@ By compressing the large learnable embedding
 table, we can significantly accelerate GNN training speed on large graphs whose training cannot
 fit in a single GPU.
 
+![Model Performance](https://raw.githubusercontent.com/amazon-science/tensor-train-for-gcn/main/figures/tt-gcn_perf.png)
+
 In addition to faster training speed, our techniques can also improve the GNN model performance.
 After compressing the learnable embedding table, our method can still achieve model performance
 comparable or even outperform the GNN model with the full embedding table.
+
+![Scalability](https://raw.githubusercontent.com/amazon-science/tensor-train-for-gcn/main/figures/tt-gcn_scale.png)
 
 
 ## Security
